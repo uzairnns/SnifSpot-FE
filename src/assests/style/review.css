@@ -1,0 +1,211 @@
+.review {
+display: block;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left
+}
+.comments {
+color: rgb(50, 50, 50);
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left
+}
+.rev-header {
+  align-items: center;
+display: flex;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+justify-content: space-between;
+line-height: 24px;
+text-align: left
+}
+.title-review {
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 32px;
+margin-bottom: 24px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 16px;
+text-align: left
+}
+.star {
+color: rgb(242, 201, 76);
+font-size: 24px;
+}
+.count {
+color: rgb(72, 72, 72);
+font-family: Work Sans;
+font-size: 24px;
+font-weight: 500;
+line-height: 32px;
+text-align: left
+}
+.row {
+color: rgb(50, 50, 50);
+display: flex;
+flex-wrap: wrap;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-left: -15px;
+margin-right: -15px;
+text-align: left
+}
+.review-info {
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left
+}
+.avatar {
+  align-self: flex-start;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+border-top-style: none;
+box-sizing: border-box;
+color: rgb(50, 50, 50);
+display: inline-block;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+height: 56px;
+line-height: 24px;
+object-fit: cover;
+object-position: 50% 50%;
+text-align: left;
+vertical-align: middle;
+width: 56px
+}
+.media-body {
+color: rgb(50, 50, 50);
+display: inline-block;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+padding-left: 16px;
+text-align: left;
+vertical-align: middle;
+width: 910px
+}
+.user-name {
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+margin-bottom: 4px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+text-align: left
+}
+.date {
+  align-items: center;
+box-sizing: border-box;
+color: rgb(120, 120, 120);
+display: flex;
+font-family: Work Sans;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+text-align: left
+}
+.rating {
+  align-items: center;
+box-sizing: border-box;
+color: rgb(50, 50, 50);
+display: flex;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 16px;
+text-align: left
+}
+.stars {
+  box-sizing: border-box;
+color: rgb(50, 50, 50);
+display: flex;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left
+}
+.rev-content {
+  box-sizing: border-box;
+color: rgb(50, 50, 50);
+flex-basis: 100%;
+flex-grow: 0;
+flex-shrink: 0;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+max-width: 100%;
+overflow-wrap: break-word;
+padding-bottom: 24px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 8px;
+position: relative;
+text-align: left;
+white-space: pre-wrap;
+width: 996px
+}
+.comment-action {
+  box-sizing: border-box;
+color: rgb(50, 50, 50);
+flex-basis: 100%;
+flex-grow: 0;
+flex-shrink: 0;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+max-width: 100%;
+overflow-wrap: break-word;
+padding-bottom: 24px;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 8px;
+position: relative;
+text-align: left;
+white-space: pre-wrap;
+width: 996px
+}
+.vote {
+  box-sizing: border-box;
+color: rgb(50, 50, 50);
+cursor: pointer;
+font-family: Work Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 24px;
+margin-top: 0px;
+overflow-wrap: break-word;
+text-align: left;
+white-space: pre-wrap;
+width: 41.95px
+}
